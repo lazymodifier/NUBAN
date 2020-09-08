@@ -1,5 +1,5 @@
 name: nuban
-version: 0.0.1
+version: 1.0.0
 description: NUBAN is a library to validate account numbers in Nigerian banks as per the guidelines of CBN
 homepage: https://github.com/lazymodifier/NUBAN
 environment:
