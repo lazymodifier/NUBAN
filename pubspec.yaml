@@ -4,5 +4,3 @@ author: Hussein Abdallah <husseinabdallah104@gmail.com>
 description: NUBAN is a library to validate account numbers in Nigerian banks as per the guidelines of CBN
 environment:
   sdk: '>=2.2.0 <3.0.0'
-dev_dependencies:
-  test: ^1.9.1
